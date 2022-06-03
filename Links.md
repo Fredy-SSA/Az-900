@@ -289,3 +289,111 @@ Azure DDoS Protection - https://azure.microsoft.com/en-us/services/ddos-protecti
 
 https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/4-protect-attacks-azure-ddos-protection
 
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/summary
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/summary
+
+# M-05
+
+https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
+
+https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/1-introduction
+
+https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/2-compare-authentication-authorization
+
+https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory
+
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
+https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/2-compare-authentication-authorization
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/1-introduction
+
+Azure RBAC - https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/4-control-access-azure-rbac
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/5-prevent-changes-resource-locks
+
+Exercise - Protect a storage account from accidental deletion by using a resource lock
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/6-protect-storage-account-resource-lock
+
+
+Tags - https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/7-organize-resource-tags
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/8-control-audit-resources-azure-policy
+
+Azure Blueprints - https://azure.microsoft.com/en-us/services/blueprints/ 
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/10-govern-subscriptions-azure-blueprints
+
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/2-accelerate-cloud-adoption-framework
+
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/1-introduction
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/3-access-microsoft-privacy-statement
+
+Trust Center -  https://www.microsoft.com/trustcenter
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/4-explore-trust-center
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/5-access-azure-compliance-documentation
+
+https://docs.microsoft.com/en-us/azure/compliance/
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/6-what-is-azure-government
+
+Azure China 21Vianet - https://docs.microsoft.com/en-us/azure/china/
+
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/7-what-is-azure-china-21vianet
+
+Knowledge check
+
+https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/5-knowledge-check
+https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/11-knowledge-check
+https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/8-knowledge-check
+
+# M-6
+
+https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/1-introduction
+
+Azure usage charges - https://docs.microsoft.com/en-us/azure/billing/billing-understand-your-invoice
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/4-purchase-azure-services
+
+Azure usage charges - https://docs.microsoft.com/en-us/azure/billing/billing-understand-your-invoice
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/4-purchase-azure-services
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/5-estimate-workload-cost-pricing-calculator
+
+TCO calculator - https://azure.microsoft.com/en-us/pricing/tco/calculator/
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/2-compare-costs-tco-calculator
+
+Exercise - Compare sample workload costs by using the TCO Calculator
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/3-compare-workload-costs-tco-calculator
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/6-manage-minimize-total-cost
+
+https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/2-what-are-service-level-agreements
+
+https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/3-define-application-sla
+
+https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/4-design-application-meet-sla
+
+Azure Previews, visit https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
+
+https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/5-access-preview-services
+
+Knowledge chek
+
+https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/7-knowledge-check
+https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/6-knowledge-check
