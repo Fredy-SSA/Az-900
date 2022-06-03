@@ -265,3 +265,27 @@ Defender for Cloud
 
 https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/3-detect-respond-threats-sentinel
 
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/4-manage-secrets-key-vault
+
+Exercise - Manage a password in Azure Key Vault
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/5-manage-password-key-vault
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/dedicated-hosts
+
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/6-host-virtual-machines-dedicated-hosts
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/1-introduction
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/2-what-is-defense-in-depth
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/5-filter-traffic-network-security-groups
+
+
+Azure Firewall - https://azure.microsoft.com/en-us/services/azure-firewall/
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/3-protect-network-azure-firewall
+
+Azure DDoS Protection - https://azure.microsoft.com/en-us/services/ddos-protection/
+
+https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/4-protect-attacks-azure-ddos-protection
+
