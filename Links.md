@@ -1,6 +1,6 @@
 # Az-900
 
-## M-0
+# M-0
 - Describe Azure cloud concepts  : https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/ 
 
 - AZ-900 Certification Areas : https://www.microsoft.com/en-us/learning/exam-az-900.aspx
@@ -10,7 +10,7 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/intro
 
 - Atos certification benefits : https://esi.microsoft.com
 
-## M-1
+# M-1
 
 - Cloud computing - https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
     - NIST definition - https://csrc.nist.gov/publications/detail/sp/800-145/final
@@ -30,7 +30,7 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/intro
     - Azure Event Grid - https://docs.microsoft.com/en-us/azure/event-grid/ 
     - Note: For more details about serverless services available with Azure, see https://azure.microsoft.com/en-us/solutions/serverless/ 
 
-## M-2
+# M-2
 
 - https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/ 
 
@@ -123,7 +123,25 @@ https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/knowle
 https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/knowledge-check
 
 
+# M-3
 
+- https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/1-introduction
 
+- IoT Central - https://docs.microsoft.com/en-us/azure/iot-central/ 
+- Azure IoT Hub - https://docs.microsoft.com/en-us/azure/iot-hub/ 
+- Azure IoT Sphere - https://docs.microsoft.com/en-us/azure-sphere/
+
+- Azure SQL Data Warehouse - https://azure.microsoft.com/en-us/services/sql-data-warehouse/ 
+
+- Azure HDInsight - https://azure.microsoft.com/en-us/services/hdinsight/  
+
+- Azure Data Lake Analytics - https://azure.microsoft.com/en-us/services/data-lake-analytics/
+
+- Data and Analytics services - https://azure.microsoft.com/en-us/product-categories/analytics/
+
+- https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/azure-big-data-analytics 
+
+- Azure Machine Learning Service - https://azure.microsoft.com/en-us/services/machine-learning-service/
+- Azure Machine Learning Studio - https://azure.microsoft.com/en-us/services/machine-learning-studio/
 
     
