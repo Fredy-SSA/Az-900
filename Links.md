@@ -231,7 +231,9 @@ Azure Service Health - https://azure.microsoft.com/en-us/services/monitor/
 - https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
 
 https://azure.microsoft.com/en-us/features/resource-manager/
+
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
 
 - https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/1-introduction
@@ -240,4 +242,26 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
 - https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/4-use-azure-advisor
 - https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/5-use-azure-monitor
 - https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
+
+Knowledge check :
+- https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/7-knowledge-check
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/7-knowledge-check
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/6-knowledge-check
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/7-knowledge-check
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/9-knowledge-check
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/7-knowledge-check
+
+
+# M-4
+
+https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/1-introduction
+
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/2-protect-threats-security-center
+
+Defender for Cloud 
+- https://azure.microsoft.com/en-us/services/defender-for-cloud/
+- https://docs.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts
+- https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
+
+https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/3-detect-respond-threats-sentinel
 
