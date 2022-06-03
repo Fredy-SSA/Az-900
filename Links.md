@@ -141,7 +141,103 @@ https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/knowl
 
 - https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/azure-big-data-analytics 
 
-- Azure Machine Learning Service - https://azure.microsoft.com/en-us/services/machine-learning-service/
-- Azure Machine Learning Studio - https://azure.microsoft.com/en-us/services/machine-learning-studio/
+Azure Machine Learning Service - https://azure.microsoft.com/en-us/services/machine-learning-service/
 
-    
+Azure Machine Learning Studio - https://azure.microsoft.com/en-us/services/machine-learning-studio/
+
+
+Note: For a full list of Artificial Intelligence and Machine Learning services available with Azure, see the AI + Machine Learning section on the https://azure.microsoft.com/en-us/overview/ai-platform/ page.
+
+
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/4-use-machine-learning
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/5-use-cognitive-services
+- https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/6-use-bot-services
+
+
+
+Azure Functions - https://docs.microsoft.com/en-us/azure/azure-functions/ 
+
+Azure Logic Apps - https://docs.microsoft.com/en-us/azure/logic-apps/ 
+
+Azure Event Grid - https://docs.microsoft.com/en-us/azure/event-grid/ 
+
+Note: For more details about serverless services available with Azure, see https://azure.microsoft.com/en-us/solutions/serverless/ 
+
+
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/4-use-azure-functions
+- https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/5-use-azure-logic-apps
+
+
+
+
+Azure DevOps Services - https://docs.microsoft.com/en-us/azure/devops/ 
+
+Azure DevTest Labs - https://azure.microsoft.com/en-us/services/devtest-lab/ 
+
+Note: For more general details on DevOps services available with Azure, see https://docs.microsoft.com/en-us/azure/#pivot=products&panel=devops 
+
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/4-use-azure-devops
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/5-use-github
+- https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/6-use-azure-devtest-labs
+
+Management Fundamentals
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/4-use-azure-portal
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/5-use-azure-powershell
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/6-use-azure-cli
+- https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/7-use-azure-mobile-app
+
+
+
+Azure Advisor - https://docs.microsoft.com/en-us/azure/advisor/
+
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/4-use-azure-advisor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/5-use-azure-monitor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
+
+
+
+Azure Monitor - https://azure.microsoft.com/en-us/services/monitor/
+
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/4-use-azure-advisor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/5-use-azure-monitor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
+
+
+Azure Service Health - https://azure.microsoft.com/en-us/services/monitor/
+
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/4-use-azure-advisor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/5-use-azure-monitor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
+
+https://azure.microsoft.com/en-us/features/resource-manager/
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/1-introduction
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/2-identify-product-options
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/3-analyze-decision-criteria
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/4-use-azure-advisor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/5-use-azure-monitor
+- https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/6-use-azure-service-health
+
